@@ -1,0 +1,17 @@
+body
+{
+    background-color: dimgrey;
+    height: 100%
+}
+
+.container
+{
+  width: 50em;
+}
+.box
+{
+border-color: whitesmoke;
+border-style: solid;
+height: 10em;
+width: 10em;
+}
